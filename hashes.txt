@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Tu recuerdo me persigue
+
+This log tracks the cryptographic history and versioning for the song **Tu recuerdo me persigue** (tu-recuerdo-me-persigue).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-14T04:11:54.729838 | `v1` | `93fbcc8b965b58626970447ed30e36ac5b86cb04bb881cdecb999690b5dbc6b5` | `115720b37b3531a99cc2be2eb5948d47312896719458e659ddbe0f8a75fb9a80` | `2026-06-14_tu-recuerdo-me-persigue-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
