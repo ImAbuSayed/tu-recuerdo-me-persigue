@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/tu-recuerdo-me-persigue/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Obtain a Music License for Tu recuerdo me persigue](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tu-recuerdo-me-persigue/) |
+| **Get License** | [License this song: Tu recuerdo me persigue](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tu-recuerdo-me-persigue/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Your memory is haunting me, I see you in the night
+> I need your body close to me, I need to hold you tight
+> We're burning up the avenue, we're taking off the chill
+> You got that late night magic, girl, you know you always will
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
